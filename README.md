@@ -2,7 +2,7 @@
 
 ## Description
 
-This guide was created to support bootcamp students going through pre-work. It contains notes on HTML, CSS< git and JavaScript. It aims to distill the information into one place for ease of memorising all of the information contained in the pre-learning.
+This guide was created to support bootcamp students going through pre-work. It contains notes on HTML, CSS, git and JavaScript. It aims to distill the information into one place for ease of memorising all of the information contained in the pre-learning.
 
 ## Installation
 
